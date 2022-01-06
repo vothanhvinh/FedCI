@@ -125,19 +125,19 @@ We recommend to start with these examples:
 
 **Federated causal inference analysis**
 
-<img src="https://github.com/MEDCOMP/FedCI/blob/main/pics/FedCI-analysis.jpg" width="480">
+<img src="blob/main/pics/FedCI-analysis.jpg" width="480">
 
 ***
 
 **The impact of inter-dependency**
 
-<img src="https://github.com/MEDCOMP/FedCI/blob/main/pics/FedCI-inter-dependency.jpg" width="480">
+<img src="blob/main/pics/FedCI-inter-dependency.jpg" width="480">
 
 ***
 
 **Contrasting with baselines**
 
-<img src="https://github.com/MEDCOMP/FedCI/blob/main/pics/Table1.jpg" width="480">
+<img src="blob/main/pics/Table1.jpg" width="480">
 
 ***
 
@@ -145,10 +145,10 @@ We recommend to start with these examples:
 
 _**Synthetic dataset**_
 
-<img src="https://github.com/MEDCOMP/FedCI/blob/main/pics/FedCI-uncertain-synthetic.jpg" width="480">
+<img src="blob/main/pics/FedCI-uncertain-synthetic.jpg" width="480">
 
 <br />
 
 _**IHDP dataset**_
 
-<img src="https://github.com/MEDCOMP/FedCI/blob/main/pics/FedCI-uncercain-ihdp.jpg" width="480">
+<img src="blob/main/pics/FedCI-uncercain-ihdp.jpg" width="480">
