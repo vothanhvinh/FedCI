@@ -1,12 +1,12 @@
 ## Bayesian Federated Estimation of Causal Effects from Observational Data
 
-Vo, T. V., Hoang, T. N., Lee, Y., & Leong, T. Y. (2021). Federated Estimation of Causal Effects from Observational Data. arXiv preprint arXiv:2106.00456: <a href="https://arxiv.org/abs/2106.00456" target="_blank">https://arxiv.org/abs/2106.00456</a>
+Vo, T. V., Hoang, T. N., Lee, Y., & Leong, T. Y. (2021). Bayesian Federated Estimation of Causal Effects from Observational Data. arXiv preprint arXiv:2106.00456: <a href="https://arxiv.org/abs/2106.00456" target="_blank">https://arxiv.org/abs/2106.00456</a>
 
 Please cite: 
 
 ```
 @article{vo2021federated,
-  title={Federated Estimation of Causal Effects from Observational Data},
+  title={Bayesian Federated Estimation of Causal Effects from Observational Data},
   author={Vo, Thanh Vinh and Hoang, Trong Nghia and Lee, Young and Leong, Tze-Yun},
   journal={arXiv preprint arXiv:2106.00456},
   year={2021}
