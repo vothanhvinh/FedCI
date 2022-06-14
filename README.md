@@ -5,11 +5,11 @@ Vo, T. V., Hoang, T. N., Lee, Y., & Leong, T. Y. (2021). Bayesian Federated Esti
 Please cite: 
 
 ```
-@article{vo2021federated,
+@inproceedings{vo2022bayesian,
   title={Bayesian Federated Estimation of Causal Effects from Observational Data},
-  author={Vo, Thanh Vinh and Hoang, Trong Nghia and Lee, Young and Leong, Tze-Yun},
-  journal={arXiv preprint arXiv:2106.00456},
-  year={2021}
+  author={Vo, Thanh Vinh and Lee, Young and Hoang, Trong Nghia and Leong, Tze-Yun},
+  booktitle={The 38th Conference on Uncertainty in Artificial Intelligence},
+  year={2022}
 }
 ```
 
