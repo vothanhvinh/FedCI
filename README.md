@@ -1,6 +1,6 @@
 ## Bayesian Federated Estimation of Causal Effects from Observational Data
 
-Vo, T. V., Lee, Y., Hoang, T. N., & Leong, T. Y. (2022). Bayesian Federated Estimation of Causal Effects from Observational Data. In The 38th Conference on Uncertainty in Artificial Intelligence. <a href="https://openreview.net/pdf?id=BEl3vP8sqlc" target="_blank">https://openreview.net/pdf?id=BEl3vP8sqlc</a>
+Vo, T. V., Lee, Y., Hoang, T. N., & Leong, T. Y. (2022). Bayesian Federated Estimation of Causal Effects from Observational Data. In The 38th Conference on Uncertainty in Artificial Intelligence. <br />[<a href="https://proceedings.mlr.press/v180/vo22a/vo22a.pdf" target="_blank">Download PDF</a>] [<a href="https://openreview.net/forum?id=BEl3vP8sqlc" target="_blank">OpenReview</a>] [<a href="https://proceedings.mlr.press/v180/vo22a/vo22a-supp.pdf" target="_blank">Supplementary PDF</a>]
 
 Please cite: 
 
