@@ -45,7 +45,10 @@ def train_model(Yobs, X, W, Yobste, Xte, Wte, y, y_cf, x, w, yte, y_cfte, xte, w
       # Update gradient on Server
       loss_server = model_server(0)
       loss_server.backward() # The purpuse of this line is to allocate memory for gradient of each parameter, i.e param.grad as below
-      optimizer_server.zero_grad()
+      # The previous command optimizer_server.zero_grad() was replaced by following 'for loop' to make it work for the new version of pytorch
+      for key, param in model_server.named_parameters():
+        param.grad.zero_()
+      
       for key, param in model_server.named_parameters():
         if (param.grad is not None) and param.requires_grad:
           param.grad += grad_dict_source[key]
