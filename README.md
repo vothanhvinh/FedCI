@@ -14,11 +14,14 @@ Please cite:
 ```
 and
 ```
-@article{vo2024federated,
+@article{vo2025federated,
   title={Federated Causal Inference from Observational Data},
   author={Vo, Thanh Vinh and Lee, Young and Leong, Tze-Yun},
-  journal={arXiv preprint arXiv:2308.13047},
-  year={2024}
+  journal={Machine Learning},
+  publisher={Springer},
+  year={2025},
+  volume={114},
+  number={194}
 }
 ```
 
